@@ -22,6 +22,12 @@ The awsxclbin can be created by running the *create\_vitis\_afi.sh* script which
 
 The script can be found in the following location in the aws-fpga repository:
 
+{% include codeHeader.html %}
+```someLanguage
+code goes in here!
+```
+
+
 ```sh
 $VITIS_DIR/tools/create_vitis_afi.sh
 ```
